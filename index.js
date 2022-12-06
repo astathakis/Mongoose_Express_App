@@ -26,6 +26,11 @@ app.get('/products', async (req, res) => {
   res.render('products/index', { products });
 });
 
+//serve the form
+app.get('/products/new', (req, res) => {
+  res.render('products/new');
+});
+
 //show route
 app.get('/products/:id', async (req, res) => {
   const { id } = req.params;
