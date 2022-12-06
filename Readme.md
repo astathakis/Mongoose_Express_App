@@ -15,10 +15,10 @@ it concentrates on creating basic REST Api functionality to expose CRUD cabaliti
 
 2. From the shell write the folllowing commands
 
-- show dbs
+`show dbs`
 
-- use farmStand
+`use farmStand`
 
-- show Collections
+`show Collections`
 
-- db.products.Find() to see all products
+`db.products.Find() to see all products`
