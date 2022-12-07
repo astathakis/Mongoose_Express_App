@@ -1,7 +1,7 @@
 # Mongoose_Express_1
 
 This is a project developed to incoorporate Mongoose with Express
-it concentrates on creating basic REST Api functionality to expose CRUD cabalities without bothering with Styling issues
+it concentrates on creating basic REST Api functionality to expose CRUD cabalities without bothering with Styling issues and error handling
 
 ## Initial steps
 
